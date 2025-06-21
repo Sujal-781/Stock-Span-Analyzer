@@ -1,5 +1,4 @@
 package com.stock;
-
 import java.util.*;
 
 public class SlidingWindow {
